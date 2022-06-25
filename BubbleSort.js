@@ -1,6 +1,6 @@
 //One of the basic Algorithm for sorting
 //In efficent with time complexity of O(n^2)
-//Space complexity is O(n) as we are not using extra datastructures
+//Space complexity is O(1) as we are not using extra datastructures
 //In this we loop through each element and comare the adjacent element if its small we swap it
 //We use two nested for loops
 

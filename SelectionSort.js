@@ -1,4 +1,4 @@
-//Selection sort has timecomplexity of O(n^2) and space complexity of O(n)
+//Selection sort has timecomplexity of O(n^2) and space complexity of O(1)
 //finds the smallest number in array and places it in the first
 
 function selectionSort(array){
